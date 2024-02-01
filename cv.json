@@ -1,0 +1,211 @@
+{
+    "basics": {
+        "name": "Facundo Wertmuller",
+        "label": "Front End Developer con enfoque principal en WordPress.",
+        "image": "/yo.webp",
+        "email": "fwertmuller@gmail.com",
+        "phone": "+54 2215024464",
+        "summary": "Soy un apasionado desarrollador web con una sólida experiencia en la creación de soluciones digitales innovadoras y atractivas. Mi enfoque se centra en las tecnologías líderes de la industria.",
+        "location": {
+            "city": "La Plata",
+            "countryCode": "AR",
+            "region": "Argentina"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "facundo-wertmuller",
+                "url": "https://linkedin.com/in/facundo-wertmuller"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "DataRoots Business Solutions Inc",
+            "position": "WordPress Developer",
+            "url": "https://www.dataroots.com/",
+            "startDate": "2023-05-01",
+            "endDate": "2023-06-01",
+            "summary": "En DataRoots Business Solutions, lideré proyectos de desarrollo web y SEO, destacándome por mi enfoque colaborativo y habilidades de trabajo en equipo. Colaboré en la implementación de estrategias efectivas de SEO, realizando análisis de palabras clave y optimización de contenido. En el desarrollo web, utilicé herramientas como Elementor, Bricks, PHP y WordPress para diseñar y personalizar sitios web. Trabajé en estrecha colaboración con diseñadores y equipos de experiencia de usuario para aplicar CSS avanzado, mejorando la presentación visual y la usabilidad de los sitios web de manera conjunta. Además, evalué continuamente el rendimiento web y proporcioné informes detallados como parte de mi compromiso con el éxito integral de los proyectos.",
+            "highlights": ["Started the company"]
+        },
+
+        {
+            "name": "Wine Glass",
+            "position": "WordPress Developer",
+            "url": "https://www.wineglass.com.ar",
+            "startDate": "2022-05-01",
+            "endDate": "2023-01-01",
+            "summary": "Colaboré activamente en el desarrollo integral de un e-commerce personalizado en WordPress, seleccionando esta tecnología por su adaptabilidad y beneficios en términos de SEO. En conjunto con un equipo multidisciplinario, utilizamos Elementor, PHP, HTML, WooCommerce y JavaScript para lograr un diseño atractivo, funciones personalizadas y una integración efectiva de WooCommerce, todo ello orientado a proporcionar una experiencia de usuario óptima. Además, implementamos estrategias de SEO de manera colaborativa, asegurando una visibilidad destacada en los motores de búsqueda y optimizando el rendimiento del sitio para obtener los mejores resultados.",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "San Miguel Incuba",
+            "position": "Web Developer",
+            "url": "https://sanmiguelincuba.com.ar",
+            "startDate": "2022-01-01",
+            "endDate": null,
+            "summary": "Trabajé en colaboración con emprendedores de diversas ciudades en Argentina, participando en la creación de interfaces web innovadoras y posteriormente implementando soluciones con tecnologías clave, destacando especialmente en el uso de WordPress. Adopté un enfoque centrado en las necesidades específicas de cada cliente, buscando constantemente mejorar la experiencia del usuario y la funcionalidad del proyecto a través de un trabajo conjunto y adaptado a sus requerimientos individuales.",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universidad Nacional de La Plata",
+            "url": "https://www.info.unlp.edu.ar/",
+            "area": "Licenciatura en Sistemas",
+            "startDate": "2023-01-01",
+            "endDate": null
+        },
+        {
+            "institution": "Coderhouse",
+            "url": "https://coderhouse.com/",
+            "area": "Desarrollador Front End React",
+            "startDate": "2021-05-01",
+            "endDate": "2022-06-01"
+        }
+    ],
+
+    "certificates": [
+        {
+            "name": "Ca",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+
+    "skills": [
+        {
+            "name": "Wordpress",
+
+            "keywords": ["Desarrollo Web", "Frontend"]
+        },
+        {
+            "name": "Elementor",
+
+            "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+        },
+        {
+            "name": "WooCommerce",
+
+            "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+        },
+        {
+            "name": "Bricks",
+
+            "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+        },
+        {
+            "name": "Javascript",
+
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Framework",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "React JS",
+
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
+            ]
+        },
+        {
+            "name": "HTML",
+
+            "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+        },
+        {
+            "name": "CSS"
+        },
+        {
+            "name": "Git",
+
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente"
+            ]
+        },
+        {
+            "name": "GitHub",
+
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "name": "Tailwind",
+
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "React Framework",
+                "SSR",
+                "Static Generation"
+            ]
+        },
+        {
+            "name": "Firebase",
+
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Advanced"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Wine Glass",
+            "isActive": true,
+            "description": "eCommerce para vinoteca de la ciudad de La Plata.",
+            "url": "https://wineglass.com.ar"
+        },
+        {
+            "name": "Evolución",
+            "isActive": true,
+            "description": "Sitio web para empresa de ventas de productos veganos.",
+            "url": "https://evolucionplantbased.com.ar"
+        },
+        {
+            "name": "RM Ascensores",
+            "isActive": false,
+            "description": "Landing Page para empresa de colocación de elevadores",
+
+            "url": "https://rmascensores.com.ar"
+        }
+    ]
+}
